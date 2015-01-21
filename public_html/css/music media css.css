@@ -1,0 +1,47 @@
+
+div{
+    border-style : solid;
+    border-width: 5px; 
+    padding: 30px; 
+   border:none;
+   }
+.container{
+    border-color: aqua; 
+    border:none;
+}
+.row{
+    border-color: black;
+   border:none;
+}
+.back1{ 
+    background-image:url("http://fc06.deviantart.net/fs71/f/2013/212/b/3/bring_me_the_horizon_sempiternal_by_pkune-d6g02iz.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 4500px;
+}
+
+.accord{
+    color:black;
+    
+}
+.imgscreenshot{
+    width:400px;
+    height: auto;
+}
+.title1{
+   color:darkturquoise ;
+   text-align: center;
+   font-family: 'Lobster', cursive;
+   font-size: 70px;
+       
+}
+.clean{
+    margin:0 auto; 
+    width:600px;
+    height:auto;
+}
+
+.fart{
+    width:150px;
+    height:auto;
+}
