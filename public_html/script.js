@@ -1,6 +1,7 @@
+//colors//
 $("document").ready(function(){
 
-$(".yeah").css("background-color", "yellow");
+$(".yeah").css("background-color", "Grey");
 
 $(".projectColor").css("background-color", "purple");
 
@@ -9,7 +10,7 @@ $(".k").css("color", "orange");
 
 
 
-
+//logo options//
 
 $('#slideAway').bind('click', slideTheImage);
 
@@ -22,12 +23,12 @@ $('#showLogov2').bind('click', showTheImagev2);
 $('#hideLogov2').bind('click', hideTheImagev2);
 
 
-
+//accordion//
 
 $('#superHumans').accordion({header: "h3"});
 
 });
-
+//functions//
 function slideTheImage() {
 $('#logo').slideUp(2500);
 }
@@ -47,9 +48,9 @@ $('#logo').show('explode', {},2500);
 function hideTheImagev2() {
 $('#logo').hide('explode', {},2500);
 }
-
+//ready functions//
 $("document").ready(function(){
-$(".red").css("background-color", "red");
+$(".red").css("background-color", "DarkBlue");
 });
 
 $("document").ready(function(){
